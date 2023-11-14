@@ -10,7 +10,7 @@ This app track basic information about their "visitors" or "users". This informa
 
 ## Cookies
 
-the App dont Where necessary, this "app" uses cookies to store information about a visitor’s preferences and history in order to better serve the  "user"  and/or present the or "user" with customized content.
+the App dont Where necessary, this "Doci App" uses cookies to store information about a visitor’s preferences and history in order to better serve the  "user"  and/or present the or "user" with customized content.
 
 
 ## Advertisement and Other Third Parties
