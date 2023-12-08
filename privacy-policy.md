@@ -1,6 +1,6 @@
 # Privacy Policy
 
-We or the App Doci takes your privacy seriously. To better protect your privacy I provide this privacy policy notice explaining the way your personal information is collected and used.
+We or the App takes your privacy seriously. To better protect your privacy I provide this privacy policy notice explaining the way your personal information is collected and used.
 
 
 ## Collection of Routine Information
@@ -10,7 +10,7 @@ This app track basic information about their "visitors" or "users". This informa
 
 ## Cookies
 
-the App dont Where necessary, this "Doci App" uses cookies to store information about a visitor’s preferences and history in order to better serve the  "user"  and/or present the or "user" with customized content.
+the App dont Where necessary, this "App" uses cookies to store information about a visitor’s preferences and history in order to better serve the  "user"  and/or present the or "user" with customized content.
 
 
 ## Advertisement and Other Third Parties
